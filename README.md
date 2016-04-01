@@ -23,3 +23,7 @@ https://miniwin.readthedocs.org/en/latest/
 
 -The game is programmed with CodeBlocks in C++, the main file is snake.cbp (codeblocks file project).
 
+
+//Rubik files
+
+- About the files named "Rubik" are some files from a not finished Unity project ( in C#), the main idea is good in my opinion, but I had some problems with the rottions, and nowadays the project is paused.
